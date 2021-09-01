@@ -1,0 +1,45 @@
+﻿@model Calculator.Models.calc
+@{
+    ViewBag.Title = "Index";
+}
+
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <h2> Калькулятор </h2>
+
+    <div class="row">
+        @using (Html.BeginForm("/Index", "calc", FormMethod.Post))
+        {
+            <div class="form-group">
+                <label for="number1">Первое число </label>
+                <input type="text" class="form-control" id="number1" name="number1" value="@Model.number1" />
+            </div>
+
+            <div class="form-group">
+                <label for="number2">Второе число </label>
+                <input type="text" class="form-control" id="number2" name="number2" value="@Model.number2" />
+            </div>
+
+            <div class="form-group">
+                <label for="result">Результат </label>
+                <input type="text" class="form-control" id="result" name="result" value="@Model.result" />
+                <input type="text" class="form-control" id="exception" name="exception" value="@Model.exception"/>
+            </div>
+
+            <button type="submit" class="btn btn-info" id="add" value="add" name="calculate">+</button>
+            <button type="submit" class="btn btn-info" id="min" value="min" name="calculate">-</button>
+            <button type="submit" class="btn btn-info" id="multiplication" value="multiplication" name="calculate">*</button>
+            <button type="submit" class="btn btn-info" id="division" value="division" name="calculate">/</button>
+            <button type="submit" class="btn btn-info" id="С" value="С" name="calculate">С</button>
+        }
+
+    </div>
+
+</body>
+
+</html>
