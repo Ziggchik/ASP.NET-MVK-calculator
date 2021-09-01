@@ -1,3 +1,6 @@
+![Анимация](https://user-images.githubusercontent.com/70440445/131743902-2a519b39-2970-4dc8-9cf6-74b5962699d2.gif)
+![1](https://user-images.githubusercontent.com/70440445/131743929-bfce74eb-9d97-4c9e-bd12-e3189cac2aaa.png)
+![Анимация](https://user-images.githubusercontent.com/70440445/131743976-632273a4-f1e0-4f91-8f67-200e5366e2ef.gif)
 # User Manual
 ## Installation:
 1) Follow the link https: https://github.com/Ziggchik/ASP.NET-MVK-calculator
