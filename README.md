@@ -13,11 +13,14 @@
 2) Press button "Download Zip"
 3) The "download" folder will contain the downloaded archive, unzip it to any place on your computer
 4) In Unzip files open  "Calculator.sln"
-5) Save open project (Ctrl+Shift+S) in any place on you computer
-5) Press buttons combination "Shift+F5" to launch application
+
+      ![image](https://user-images.githubusercontent.com/70440445/131748509-48fa3b07-4c9f-4c72-ac36-953ca8bc87ee.png)
+
+6) Save open project (Ctrl+Shift+S) in any place on you computer
+7) Press buttons combination "Shift+F5" to launch application
 ### Open with Visual Stido:
 1) Download Visual Studio. link for download: https://visualstudio.microsoft.com/ru/downloads
-2) Press button "Open with Visual Stido"
+2) Press button "Open with Visual Studio"
 3) In Visual Studio click to button "Clone repository"
 4) Solution will donwload from repository and you can save project (Ctrl+Shift+S) in any place on you computer
 ### Download with command:
