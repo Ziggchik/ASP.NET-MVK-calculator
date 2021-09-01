@@ -18,7 +18,7 @@
 ### Open with Visual Stido:
 1) Download Visual Studio. link for download: https://visualstudio.microsoft.com/ru/downloads
 2) Press button "Open with Visual Stido"
-3) In Visual Stidio click to button "Clone repository"
+3) In Visual Studio click to button "Clone repository"
 4) Solution will donwload from repository and you can save project (Ctrl+Shift+S) in any place on you computer
 ### Download with command:
 1) Press button combination "Win+R" and write "cmd"
